@@ -1,0 +1,23 @@
+body {
+    background-image: url(software-developer.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+}
+
+h1 {color: ghostwhite;}
+
+.flex-container {
+    display: flex;
+    font-size: 50px;
+    font-style: italic;
+    flex-direction: row-reverse;
+    line-height: 55px;
+    height: 50px;
+    margin: 2%;
+    align-items: center;
+  }
+
+p {color:ghostwhite}
+p {color: ghostwhite;}

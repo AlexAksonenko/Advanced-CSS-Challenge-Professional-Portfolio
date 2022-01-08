@@ -1,0 +1,33 @@
+body {
+    background-image: url(web-development.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+}
+
+
+h1
+{ color:rgb(239, 241, 239);
+font-family: Arial;
+font-size: 40px;
+text-align:right}
+
+hr {padding-right: 50%;}
+
+.flex-container {
+  display: flex;
+  font-size: 50px;
+  font-style: italic;
+  flex-direction: row-reverse;
+  line-height: 55px;
+  height: 50px;
+  margin: 2%;
+  align-items: center;
+  
+  
+}
+
+
+
+
